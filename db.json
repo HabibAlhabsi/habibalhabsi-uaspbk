@@ -1,0 +1,40 @@
+{
+  "transaksi": [
+    {
+      "id": 1,
+      "tanggal": "2025-07-04T10:30:00.000Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Kopi Susu (Dingin)",
+          "harga": 15000,
+          "jumlah": 2
+        },
+        {
+          "id_menu": 11,
+          "nama_menu": "Croissant",
+          "harga": 12000,
+          "jumlah": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tanggal": "2025-07-04T11:00:00.000Z",
+      "pesanan": [
+        {
+          "id_menu": 2,
+          "nama_menu": "Americano (Panas)",
+          "harga": 12000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 17,
+          "nama_menu": "Red Velvet Cake",
+          "harga": 20000,
+          "jumlah": 1
+        }
+      ]
+    }
+  ]
+}
