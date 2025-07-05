@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed top-0 left-0 right-0 bg-white shadow z-50 h-[104px]"> <!-- h-26 manual -->
+  <nav class="fixed top-0 left-0 right-0 bg-white shadow z-50 h-20"> <!-- h-26 manual -->
     <div class="max-w-6xl mx-auto px-6 h-full flex items-center justify-between">
       
       <!-- Logo / Judul -->
